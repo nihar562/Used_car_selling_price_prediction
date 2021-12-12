@@ -3,6 +3,7 @@ A predictive model for a used car price prediction using machine learning
 
 # features_describition
 Name - The brand and model of the car.
+
 Location - The location in which the car is being sold or is available for purchase.
 Year - The year or edition of the model.
 Age_of_car - year replaced by Age_of_car 
